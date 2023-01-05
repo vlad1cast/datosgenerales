@@ -1,0 +1,1 @@
+1. git commit -m "comit inicial" //para dejar un comentario en el comit
