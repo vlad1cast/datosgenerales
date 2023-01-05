@@ -1,3 +1,4 @@
 1. git commit -m "comit inicial" //para dejar un comentario en el comit.
 2. git global --core.editor "'C:\VSCode\Code.exe' --wait" // para dejar un editor de texto por defecto
 C:\VSCode
+3. git status -s //para ver mas resumido el estado del repositorio local
