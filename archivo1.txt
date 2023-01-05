@@ -4,3 +4,4 @@ C:\VSCode
 3. git status -s //para ver mas resumido el estado del repositorio local
 4. git diff //ve las diferencias entre mis cambios locales
 5. git diff --staged // ve la diferencia entre mis cambios que estan en staged
+6. git checkout -b develop //para crear una rama
