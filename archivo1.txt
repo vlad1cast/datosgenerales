@@ -12,3 +12,4 @@ C:\VSCode
 11. git remote add origin https://github.com/vlad1cast/datosgenerales.git //agregamos rama remota
 12. git push -u origin main //creamos rama en repositorio origin remoto
 13. git push -u origin master//creamos rama master en repositorio
+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
