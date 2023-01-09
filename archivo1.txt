@@ -6,3 +6,4 @@ C:\VSCode
 5. git diff --staged // ve la diferencia entre mis cambios que estan en staged
 6. git checkout -b develop //para crear una rama
 7. git checkout master //para cambiar a rama master
+8. git merge "nombre de la rama que vamos a traer"//tenemos que estar posicionados en la rama que vamos a actualizar con la otra que necesitemos
