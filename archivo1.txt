@@ -9,3 +9,6 @@ C:\VSCode
 8. git merge "nombre de la rama que vamos a traer"//tenemos que estar posicionados en la rama que vamos a actualizar con la otra que necesitemos
 9. git branch //para ver las ramas que tenemos
 10. git log --oneline //para ver el log de la rama mas corto
+11. git remote add origin https://github.com/vlad1cast/datosgenerales.git //agregamos rama remota
+12. git push -u origin main //creamos rama en repositorio origin remoto
+13. git push -u origin master//creamos rama master en repositorio
